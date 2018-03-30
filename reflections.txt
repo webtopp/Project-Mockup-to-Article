@@ -1,0 +1,26 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. 
+Answer the following questions:
+
+
+* What new skills have you learned?
+  
+* What has been easy?
+  
+* What has been difficult?
+  
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+
+
+---
+My Response to all those questions is as follows:
+
+1.I have learned how to create an HTML page structure with tags and attributes.
+Specifically, how to include images with caption, the difference between absolute and relative path, when and how to use captions, horizontal rule, <del> tag, <sup> tag, insert line breaks, semantic difference between <bold> and <strong>tags.
+
+2. The easy part was understanding how HTML works. 
+
+3. A difficult but useful part was learning to research for solution to a problem by using the right keywords.
+
+4. I researched what I wanted to do in HTML and, consequentely, found the tags I needed.
